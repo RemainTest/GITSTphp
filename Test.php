@@ -19,7 +19,7 @@ class Fss_Test {
 
     public static function displayError() {
 
-        Echo '************** displayError  ************' ;
+        Echo '************** Display Error 2017 ************' ;
     
     }
 
