@@ -8,8 +8,8 @@
  * @category    Tickets
  * @package     f_Helpdesk
  * @subpackage  Tickets
- * @version     1.0.6
- * @since       File available since 1.0.6
+ * @version     1.0.5
+ * @since       File available since 1.0.5
  * @link        http://www.formaserve.co.uk 
  * 
  */
