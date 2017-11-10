@@ -9,7 +9,7 @@
  * @category    Utilities
  * @package     Helpdesk
  * @subpackage  Utilities
- * @version     1.0.2
+ * @version     1.0.3
  * @since       File available since 1.0.2
  * @link        http://www.formaserve.co.uk 
  * 
