@@ -9,7 +9,7 @@
  * @package     f_Helpdesk
  * @subpackage  Tickets
  * @version     1.0.6
- * @since       File available since 1.0.1
+ * @since       File available since 1.0.6
  * @link        http://www.formaserve.co.uk 
  * 
  */
