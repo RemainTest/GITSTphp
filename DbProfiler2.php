@@ -1,7 +1,7 @@
 <?php
 
 /**
- * FormaServe - Db Profiler-2
+ * FormaServe - Db Profiler
  * 
  * @author      FormaServe Systems Ltd
  * @copyright   Copyright © 1990-2013 FormaServe Systems Ltd 
@@ -9,8 +9,8 @@
  * @category    Tickets
  * @package     f_Helpdesk
  * @subpackage  Tickets
- * @version     1.0.0
- * @since       File available since 1.0.0
+ * @version     1.0.4
+ * @since       File available since 1.0.1
  * @link        http://www.formaserve.co.uk 
  * 
  */
