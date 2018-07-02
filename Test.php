@@ -9,7 +9,7 @@
  * @category    Utilities
  * @package     Helpdesk
  * @subpackage  Utilities
- * @version     1.0.1
+ * @version     1.0.2
  * @since       File available since 1.0.1
  * @link        http://www.formaserve.co.uk 
  * 
@@ -19,7 +19,7 @@ class Fss_Test {
 
     public static function displayError() {
 
-        Echo '************** Display Error 2017 ************' ;
+        Echo '************** Display Error 2017 *************' ;
     
     }
 
